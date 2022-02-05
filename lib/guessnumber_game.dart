@@ -29,7 +29,7 @@ class _GameguessnumberState extends State<Gameguessnumber> {
         padding: const EdgeInsets.all(16.0),
         child: Container(
           decoration: BoxDecoration(
-            color: Colors.white,
+            color: Colors.yellowAccent,
             borderRadius: BorderRadius.circular(16.0),
             boxShadow: [
               BoxShadow(

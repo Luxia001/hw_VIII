@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: '🖩 GUESS THE NUMBER 🖩',
       theme: ThemeData(
-        primarySwatch: Colors.deepOrange,
+        primarySwatch: Colors.deepPurple,
       ),
       home: Gameguessnumber(),
     );
